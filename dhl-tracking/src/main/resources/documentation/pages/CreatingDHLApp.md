@@ -227,9 +227,9 @@ Before proceeding to configure the Krista extension, verify you have:
 
 Now that you have your DHL API credentials, proceed to:
 
-1. **[Configure the Extension](ExtensionConfiguration.md)** - Set up the extension in Krista
+1. **[Configure the Extension](pages/ExtensionConfiguration.md)** - Set up the extension in Krista
 2. **Test the Connection** - Verify your credentials work correctly
-3. **Start Tracking** - Use the [Track by Tracking Number](TrackByTrackingNumber.md) catalog request
+3. **Start Tracking** - Use the [Track by Tracking Number](pages/TrackByTrackingNumber.md) catalog request
 
 ---
 
@@ -315,12 +315,12 @@ If your API key is compromised:
 - **DHL Developer Portal**: [https://developer.dhl.com/](https://developer.dhl.com/)
 - **DHL API Documentation**: [https://developer.dhl.com/api-reference](https://developer.dhl.com/api-reference)
 - **DHL Support**: Contact through Developer Portal
-- **Krista Extension Configuration**: [Extension Configuration Guide](ExtensionConfiguration.md)
+- **Krista Extension Configuration**: [Extension Configuration Guide](pages/ExtensionConfiguration.md)
 
 ---
 
 ## See Also
 
-- [Extension Configuration](ExtensionConfiguration.md) - Configure the extension in Krista
-- [Track by Tracking Number](TrackByTrackingNumber.md) - Main catalog request
-- [Architecture](Architecture.md) - Technical architecture and design
+- [Extension Configuration](pages/ExtensionConfiguration.md) - Configure the extension in Krista
+- [Track by Tracking Number](pages/TrackByTrackingNumber.md) - Main catalog request
+- [Architecture](pages/Architecture.md) - Technical architecture and design

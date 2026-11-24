@@ -454,8 +454,8 @@ Currently, this extension does not implement custom telemetry metrics. Standard 
 
 ## See Also
 
-- [Extension Configuration](ExtensionConfiguration.md) - Setup and configuration guide
-- [Creating DHL Application](CreatingDHLApp.md) - Obtain API credentials
-- [Architecture](Architecture.md) - Technical architecture and design
+- [Extension Configuration](pages/ExtensionConfiguration.md) - Setup and configuration guide
+- [Creating DHL Application](pages/CreatingDHLApp.md) - Obtain API credentials
+- [Architecture](pages/Architecture.md) - Technical architecture and design
 - [DHL API Documentation](https://developer.dhl.com/) - Official DHL API reference
 

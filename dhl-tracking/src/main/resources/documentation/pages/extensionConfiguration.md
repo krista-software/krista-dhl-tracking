@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide provides step-by-step instructions for configuring the DHL Tracking and Delivery Extension in Krista. Before proceeding, ensure you have obtained your DHL API credentials by following the [Creating DHL Application](CreatingDHLApp.md) guide.
+This guide provides step-by-step instructions for configuring the DHL Tracking and Delivery Extension in Krista. Before proceeding, ensure you have obtained your DHL API credentials by following the [Creating DHL Application](pages/CreatingDHLApp.md) guide.
 
 ## Prerequisites
 
@@ -203,14 +203,14 @@ API KEY: WNVFKVnpfZNGJFxwjB7Q4AItMPcJJOG7
 
 After successful configuration:
 
-1. **Test the Extension**: Try the [Track by Tracking Number](TrackByTrackingNumber.md) catalog request
-2. **Review Architecture**: Understand the [technical architecture](Architecture.md)
+1. **Test the Extension**: Try the [Track by Tracking Number](pages/TrackByTrackingNumber.md) catalog request
+2. **Review Architecture**: Understand the [technical architecture](pages/Architecture.md)
 3. **Integrate with Workflows**: Use the extension in your Krista applications
 4. **Monitor Usage**: Track API calls and performance
 
 ## See Also
 
-- [Creating DHL Application](CreatingDHLApp.md) - How to obtain API credentials
-- [Track by Tracking Number](TrackByTrackingNumber.md) - Main catalog request documentation
-- [Architecture](Architecture.md) - Technical architecture and design
+- [Creating DHL Application](pages/CreatingDHLApp.md) - How to obtain API credentials
+- [Track by Tracking Number](pages/TrackByTrackingNumber.md) - Main catalog request documentation
+- [Architecture](pages/Architecture.md) - Technical architecture and design
 - [DHL API Documentation](https://developer.dhl.com/) - Official DHL API reference

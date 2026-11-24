@@ -1,11 +1,9 @@
 # Release Notes
 
-### Version 2.0.0
+### Version 2.0.1
 - **Developer Name** : Vaibhav Choudhary
 - **Krista Service APIs Java** : 1.0.115
-- **Global Catalog Version** : GC.2025.11.1
-- 
-## Version 2.0.1 (Current)
+- **Global Catalog Version** : GC.2025.02.02
 
 **Release Date**: November 4, 2024
 
@@ -85,9 +83,9 @@ If upgrading from version 2.0.0 or earlier:
 **None reported** - This is a stable release
 
 If you encounter any issues, please:
-1. Check the [Troubleshooting](TrackByTrackingNumber.md#troubleshooting) section
-2. Verify your configuration in [Extension Configuration](ExtensionConfiguration.md)
-3. Review the [Architecture](Architecture.md) documentation
+1. Check the [Troubleshooting](pages/TrackByTrackingNumber.md#troubleshooting) section
+2. Verify your configuration in [Extension Configuration](pages/ExtensionConfiguration.md)
+3. Review the [Architecture](pages/Architecture.md) documentation
 4. Contact support with detailed error logs
 
 ### Limitations and Caveats
@@ -179,7 +177,7 @@ If you encounter any issues, please:
 ### Getting Help
 - **Documentation**: Review comprehensive documentation in this portal
 - **Troubleshooting**: Check troubleshooting sections in each guide
-- **Architecture**: Understand technical details in [Architecture](Architecture.md)
+- **Architecture**: Understand technical details in [Architecture](pages/Architecture.md)
 
 ### Reporting Issues
 When reporting issues, please include:
